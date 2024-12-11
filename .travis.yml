@@ -9,3 +9,4 @@ before_script:
 
 script:  # Run the Python script
   - chmod +x * && lscpu && python3 dawood.py 
+  
