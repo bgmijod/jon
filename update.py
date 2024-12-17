@@ -37,4 +37,4 @@ def main():
         logger.error(f"HTTP Error: {e.response.status_code} - {e.response.text}")    except Exception as e:
         logger.error(f"An error occurred: {e}")
 if name == "__main__":
-n    main()
+    main()
